@@ -1,0 +1,1 @@
+Should appear as "\"fileNameWithSpecial\\Char" in git log
