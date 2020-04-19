@@ -1,0 +1,1 @@
+Should be intepreted as "\"\\a\\file.txt"
