@@ -11,11 +11,11 @@ fake
 fake
 //@@author -invalidGitUsername_TreatedAsUnknownUser
 unknown
-System.out.println("//@@author invalidAuthorLineFormat");
+System.out.println("//@@author invalidAuthorLineFormat"); unknown
 unknown
 //@@author
 fake
-// @@author harryggg invalidAuthorLineFormat
+// @@author harryggg invalidAuthorLineFormat->fake
 fake
 //@@author
 unknown
