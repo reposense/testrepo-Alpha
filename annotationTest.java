@@ -15,7 +15,7 @@ System.out.println("//@@author invalidAuthorLineFormat"); unknown
 unknown
 //@@author
 fake
-// @@author harryggg invalidAuthorLineFormat->fake
+fake
 fake
 //@@author
 unknown
