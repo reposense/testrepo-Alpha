@@ -1,4 +1,4 @@
 line 1
-line 2
+Ignored Author modified this line: line 2
 fake
-line 3
+Ignored Author modified this line too: line 3
