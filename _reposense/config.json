@@ -1,7 +1,7 @@
 {
   "ignoreGlobList": ["about-us/**", "**index.html"],
   "formats": ["html", "css"],
-  "ignoreCommitList": ["", "67890def"],
+  "ignoreCommitsList": ["", "67890def"],
   "authors":
   [
     {
