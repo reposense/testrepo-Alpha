@@ -9,14 +9,14 @@ line 3
 //@@author
 fake
 fake
-//@@author -invalidGitUsername_TreatedAsUnknownUser
-unknown
-System.out.println("//@@author invalidAuthorLineFormat"); unknown
-unknown
+//@@author -unconventional_author-
+unconventional line 1
+System.out.println("//@@author invalidAuthorLineFormat"); unconventional line 2
+unconventional line 3
 //@@author
 fake
-//@@author harryggg invalidAuthorLineFormat
-fake
+//@@author whitespace author
+whitespace line 1
 //@@author
-unknown
-unknown
+fake
+fake
