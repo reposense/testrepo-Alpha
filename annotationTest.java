@@ -9,14 +9,14 @@ line 3
 //@@author
 fake
 fake
-//@@author -unconventional_author-
-unconventional line 1
-System.out.println("//@@author invalidAuthorLineFormat"); unconventional line 2
-unconventional line 3
+//@@author -unconventional_author
+unconventional line
+System.out.println("//@@author invalidAuthorLineFormat"); unconventional line
+unconventional line
 //@@author
 fake
-//@@author whitespace author
-whitespace line 1
+//@@author whitespace autho
+whitespace line
 //@@author
-fake
-fake
+fak
+fak
