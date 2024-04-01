@@ -1,2 +1,1 @@
-line by branch a.
-line by another branch b.
+line by another branch c.
