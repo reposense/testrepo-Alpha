@@ -1,0 +1,2 @@
+This line is added.
+Nothing deleted, hence no candidate line.
